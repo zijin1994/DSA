@@ -1,3 +1,4 @@
+//yeeeeee.
 var findPeakElement = function(nums) {
     if (nums.length === 1) return 0;
     let l = 0;
