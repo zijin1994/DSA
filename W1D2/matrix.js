@@ -26,7 +26,7 @@ var spiralOrder = function(matrix) {
 
     return result;
 };
-
+     
 
 
 function spiralOrder(matrix) {
