@@ -23,7 +23,7 @@ var spiralOrder = function(matrix) {
 
         cycle++;
     }
-
+    
     return result;
 };
      
