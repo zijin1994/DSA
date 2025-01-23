@@ -85,7 +85,7 @@ class Node {
   
   const tree1 = buildTree([1, null, 2, 3]);
   console.log(inorderTraversal(tree1)); // Output: [1, 3, 2]
-  
+        
   const tree2 = buildTree([1, 2, 3, null, null, 4, null, null, 5]);
   console.log(inorderTraversal(tree2)); // Output: [2, 1, 4, 5, 3]
   
