@@ -2,7 +2,7 @@
 // function `inorderTraversal` that returns an
 // array containing the values of the nodes visited in
 // an inorder traversal.
-           
+                 
 class Node {
     constructor(value) {
       this.val = value;
@@ -10,7 +10,7 @@ class Node {
       this.right = null;
     }
   }
-  
+            
   // Helper function for test cases
   function buildTree(arr) {
     if (arr.length === 0) {
