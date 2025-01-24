@@ -2,7 +2,7 @@
 // function `inorderTraversal` that returns an
 // array containing the values of the nodes visited in
 // an inorder traversal.
-     
+           
 class Node {
     constructor(value) {
       this.val = value;
